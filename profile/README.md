@@ -11,15 +11,14 @@
 ## **Провеждани курсове през годините:**
 
 ### :orange_book: Бакалаварски програми
-- [Софтуерни процеси](https://github.com/mihail-petrov-courses-pu-fmi/software-processes) (_4 курс_ / **Софтуерно инженерство**)
 - [Въведение в програмирането с Java](https://github.com/mihail-petrov-courses-pu-fmi/java-intro) (_1 курс_ / **Информатика**)
 - [Обектно ориентираното програмирането с Java](https://github.com/mihail-petrov-courses-pu-fmi/java-oop)  (_2 курс_ / **Информатика**)
 - Операционни системи (_2 курс_ / **Математика**)
 - Големи данни (_4 курс_ / **Софтуерно инженерство**)
+- [Софтуерни процеси](https://github.com/mihail-petrov-courses-pu-fmi/software-processes) (_4 курс_ / **Софтуерно инженерство**)
 
 ### :books: Бакалаварски програми - \[избираеми дисциплини\]
-- Java Script в дълбочина - част 1
-- Java Script в дълбочина - част 2
+- [Java Script в дълбочина](https://github.com/mihail-petrov-courses-pu-fmi/js-in-dept)
 - Разработка на приложения за бази данни с Oracle DB
 
 ### :green_book: Магистърски програми
