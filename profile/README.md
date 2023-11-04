@@ -25,7 +25,7 @@
 - [Софтуерни технологии - въвеждащи дисциплини](https://github.com/mihail-petrov-courses-pu-fmi/pu-fmi-master)
 
 ### :books: Магистърски програми -  \[избираеми дисциплини\]
-- Блокови вериги (blockchain)
-- Разработка на игри с JavaScript
-- Разработка на инфраструктурни скриптове и desktop приложения с JavaScript и NodeJS
+- [Блокови вериги (blockchain)](https://github.com/mihail-petrov-courses-pu-fmi/blockchain) 
+- [Разработка на игри с JavaScript](https://github.com/mihail-petrov-courses-pu-fmi/js-game)
+- [Разработка на инфраструктурни скриптове и desktop приложения с JavaScript и NodeJS](https://github.com/mihail-petrov-courses-pu-fmi/js-infrastructure-scripts)
 - Разработка на Java работни рамки от нулата
