@@ -20,7 +20,7 @@
 ### 📚 Бакалаварски програми - \[избираеми дисциплини\]
 - [Java Script в дълбочина](https://github.com/mihail-petrov-courses-pu-fmi/js-in-dept)
 - Разработка на приложения за бази данни с Oracle DB
-- [Архитектура на front-end приложения с Angular](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-arcitecture-bachelor)
+- [Архитектура на front-end приложения с Angular](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-architecture-bachelor)
 
 ### 📘 Магистърски програми
 - [Софтуерни технологии - въвеждащи дисциплини](https://github.com/mihail-petrov-courses-pu-fmi/pu-fmi-master)
