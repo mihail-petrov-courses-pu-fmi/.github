@@ -20,12 +20,13 @@
 ### :books: Бакалаварски програми - \[избираеми дисциплини\]
 - [Java Script в дълбочина](https://github.com/mihail-petrov-courses-pu-fmi/js-in-dept)
 - Разработка на приложения за бази данни с Oracle DB
+- [Архитектура на front-end приложения с Angular](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-arcitecture-bachelor)
 
 ### :green_book: Магистърски програми
 - [Софтуерни технологии - въвеждащи дисциплини](https://github.com/mihail-petrov-courses-pu-fmi/pu-fmi-master)
 
 ### :books: Магистърски програми -  \[избираеми дисциплини\]
-- [Архитектура на front-end приложения и PWA](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-arcitecture)
+- [Архитектура на front-end приложения и PWA](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-arcitecture-master)
 - [Блокови вериги (blockchain)](https://github.com/mihail-petrov-courses-pu-fmi/blockchain) 
 - [Разработка на игри с JavaScript](https://github.com/mihail-petrov-courses-pu-fmi/js-game)
 - [Разработка на инфраструктурни скриптове и desktop приложения с JavaScript и NodeJS](https://github.com/mihail-petrov-courses-pu-fmi/js-infrastructure-scripts)
