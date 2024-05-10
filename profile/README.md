@@ -26,6 +26,7 @@
 - [Софтуерни технологии - въвеждащи дисциплини](https://github.com/mihail-petrov-courses-pu-fmi/pu-fmi-master)
 
 ### :books: Магистърски програми -  \[избираеми дисциплини\]
+- [Web приложения с Golang](https://github.com/mihail-petrov-courses-pu-fmi/golang-web-development-master)
 - [Архитектура на front-end приложения и PWA](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-arcitecture-master)
 - [Блокови вериги (blockchain)](https://github.com/mihail-petrov-courses-pu-fmi/blockchain) 
 - [Разработка на игри с JavaScript](https://github.com/mihail-petrov-courses-pu-fmi/js-game)
