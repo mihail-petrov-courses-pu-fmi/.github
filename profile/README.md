@@ -12,27 +12,23 @@
 
 ### 📙 Бакалаварски програми
 
-**редовни**
-- [Въведение в програмирането с Java](https://github.com/mihail-petrov-courses-pu-fmi//java-intro) (_1 курс_ / **Информатика**)
-- [Обектно ориентираното програмирането с Java](https://github.com/mihail-petrov-courses-pu-fmi/java-oop)  (_2 курс_ / **Информатика**)
-- Операционни системи (_2 курс_ / **Математика**)
-- Големи данни (_4 курс_ / **Софтуерно инженерство**)
-- [Софтуерни процеси](https://github.com/mihail-petrov-courses-pu-fmi/software-processes) (_4 курс_ / **Софтуерно инженерство**)
+- 🟦 [Въведение в програмирането с Java](https://github.com/mihail-petrov-courses-pu-fmi//java-intro) (_1 курс_ / **Информатика**)
+- 🟦 [Обектно ориентираното програмирането с Java](https://github.com/mihail-petrov-courses-pu-fmi/java-oop)  (_2 курс_ / **Информатика**)
+- 🟦 Операционни системи (_2 курс_ / **Математика**)
+- 🟦 Големи данни (_4 курс_ / **Софтуерно инженерство**)
+- 🟦 [Софтуерни процеси](https://github.com/mihail-petrov-courses-pu-fmi/software-processes) (_4 курс_ / **Софтуерно инженерство**)
 
-**избираеми**
-- [Java Script в дълбочина](https://github.com/mihail-petrov-courses-pu-fmi/js-in-dept)
-- Разработка на приложения за бази данни с Oracle DB
-- [Архитектура на front-end приложения с Angular](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-architecture-bachelor)
+- 🟨 [Java Script в дълбочина](https://github.com/mihail-petrov-courses-pu-fmi/js-in-dept)
+- 🟨 Разработка на приложения за бази данни с Oracle DB
+- 🟨 [Архитектура на front-end приложения с Angular](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-architecture-bachelor)
 
 ### 📘 Магистърски програми
 
-**редовни**
-- [Софтуерни технологии - въвеждащи дисциплини](https://github.com/mihail-petrov-courses-pu-fmi/pu-fmi-master)
+- 🟦 [Софтуерни технологии - въвеждащи дисциплини](https://github.com/mihail-petrov-courses-pu-fmi/pu-fmi-master)
 
-**избираеми**
-- [Web приложения с Golang](https://github.com/mihail-petrov-courses-pu-fmi/golang-web-development-master)
-- [Архитектура на front-end приложения и PWA](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-arcitecture-master)
-- [Блокови вериги (blockchain)](https://github.com/mihail-petrov-courses-pu-fmi/blockchain) 
-- [Разработка на игри с JavaScript](https://github.com/mihail-petrov-courses-pu-fmi/js-game)
-- [Разработка на инфраструктурни скриптове и desktop приложения с JavaScript и NodeJS](https://github.com/mihail-petrov-courses-pu-fmi/js-infrastructure-scripts)
-- Разработка на Java работни рамки от нулата
+- 🟨 [Web приложения с Golang](https://github.com/mihail-petrov-courses-pu-fmi/golang-web-development-master)
+- 🟨 [Архитектура на front-end приложения и PWA](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-arcitecture-master)
+- 🟨 [Блокови вериги (blockchain)](https://github.com/mihail-petrov-courses-pu-fmi/blockchain) 
+- 🟨 [Разработка на игри с JavaScript](https://github.com/mihail-petrov-courses-pu-fmi/js-game)
+- 🟨 [Разработка на инфраструктурни скриптове и desktop приложения с JavaScript и NodeJS](https://github.com/mihail-petrov-courses-pu-fmi/js-infrastructure-scripts)
+- 🟨 Разработка на Java работни рамки от нулата
