@@ -19,7 +19,7 @@
 - 🟦 [Софтуерни процеси](https://github.com/mihail-petrov-courses-pu-fmi/software-processes) (_4 курс_ / **Софтуерно инженерство**)
 - 🟨 [Архитектура на front-end приложения с Angular](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-architecture-bachelor)
 - 🟨 [Java Script в дълбочина](https://github.com/mihail-petrov-courses-pu-fmi/js-in-dept)
-- 🟨 Разработка на приложения за бази данни с Oracle DB
+- 🟨 [Разработка на приложения за бази данни с Oracle DB](https://github.com/mihail-petrov-courses-pu-fmi/plsql)
 
 
 ## Магистърски програми
