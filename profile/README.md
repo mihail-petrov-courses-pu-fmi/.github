@@ -20,6 +20,7 @@
 - 🟨 [Архитектура на front-end приложения с Angular](https://github.com/mihail-petrov-courses-pu-fmi/js-front-end-architecture-bachelor)
 - 🟨 [Java Script в дълбочина](https://github.com/mihail-petrov-courses-pu-fmi/js-in-dept)
 - 🟨 [Разработка на приложения за бази данни с Oracle DB](https://github.com/mihail-petrov-courses-pu-fmi/plsql)
+- 🟨🔥[Data инженеринг със Snowflake](https://github.com/mihail-petrov-courses-pu-fmi/snowflake-bachelor) 
 
 
 ## Магистърски програми
@@ -31,3 +32,4 @@
 - 🟨 [Разработка на игри с JavaScript](https://github.com/mihail-petrov-courses-pu-fmi/js-game)
 - 🟨 [Разработка на инфраструктурни скриптове и desktop приложения с JavaScript и NodeJS](https://github.com/mihail-petrov-courses-pu-fmi/js-infrastructure-scripts)
 - 🟨 Разработка на Java работни рамки от нулата
+- 🟨🔥[Data инженеринг със Snowflake](https://github.com/mihail-petrov-courses-pu-fmi/snowflake-master) 
